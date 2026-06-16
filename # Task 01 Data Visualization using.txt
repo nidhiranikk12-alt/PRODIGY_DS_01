@@ -1,0 +1,50 @@
+# Task 01: Data Visualization using Python
+
+## Overview
+This project demonstrates basic data visualization techniques using Python. A sample dataset containing **Age** and **Gender** information is analyzed and visualized using different chart types.
+
+The project creates:
+
+1. **Histogram** for Age Distribution
+2. **Bar Chart** for Gender Distribution
+
+These visualizations help in understanding the frequency distribution of ages and the count of males and females in the dataset.
+
+---
+
+## Dataset
+
+The dataset contains the following columns:
+
+| Column | Description |
+|----------|-------------|
+| Age | Age of individuals |
+| Gender | Gender of individuals |
+
+### Sample Data
+
+| Age | Gender |
+|-----|---------|
+| 23 | Male |
+| 25 | Female |
+| 31 | Male |
+| 35 | Female |
+| ... | ... |
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
+
+## Installation
+
+Install the required libraries:
+
+```bash
+pip install pandas matplotlib seaborn
